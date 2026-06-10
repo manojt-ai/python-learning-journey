@@ -1,4 +1,4 @@
-# Python Learning Journey 🚀
+# Python Learning Journey 
 
 Hi, I'm Manoj Kumar.
 
